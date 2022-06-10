@@ -3,8 +3,11 @@
 
 order of running 
 > docker-compose up -d
+> 
 > read_tweets.sh
+> 
 > run_app.sh
+> 
 > shutdown-cluster.sh
 
 Screenshot with installation creation
