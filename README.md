@@ -1,6 +1,12 @@
 # Lab6
  Write to Kafka using a code
 
+order of running 
+> docker-compose up -d
+> read_tweets.sh
+> run_app.sh
+> shutdown-cluster.sh
+
 Screenshot with installation creation
 
 ![image](https://user-images.githubusercontent.com/102665740/173093658-9ad72eec-d104-4f84-9539-9fa925cf8492.png)
